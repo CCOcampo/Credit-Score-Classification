@@ -1,5 +1,3 @@
-Credit Score Classification Using Neural Networks
-
 # Credit Score Classification Using Neural Networks
 
 ## Proyecto: Clasificación de Puntuaciones Crediticias a través de Redes Neuronales
